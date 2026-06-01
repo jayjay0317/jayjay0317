@@ -15,6 +15,8 @@ I like working with real-world datasets, asking practical questions, and buildin
 
 Python, SQL, PyTorch, scikit-learn, pandas, NumPy, matplotlib, seaborn, PostgreSQL, Tableau, Flask, Streamlit, Docker, AWS
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+https://img.shields.io/badge/PyTorch-%23EE4C2C?style=flat-square&logo=pytorch&logoColor=white
+<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
 
 
 ## 🌐 Portfolio

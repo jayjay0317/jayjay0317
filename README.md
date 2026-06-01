@@ -13,7 +13,12 @@ I like working with real-world datasets, asking practical questions, and buildin
 
 ## 🛠️ Tools I'm using
 
-Python, SQL, PyTorch, scikit-learn, pandas, NumPy, matplotlib, seaborn, PostgreSQL, Tableau, Flask, Streamlit, Docker, AWS
+**Languages:** Python, SQL  
+**Machine Learning:** PyTorch, scikit-learn  
+**Data Analysis:** pandas, NumPy, matplotlib, seaborn  
+**Databases & BI:** PostgreSQL, Tableau  
+**Deployment:** Flask, Streamlit, Docker, AWS
+
 <img src="https://img.shields.io/badge/%20Python-%233776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=flat-square&logo=pytorch&logoColor=white">

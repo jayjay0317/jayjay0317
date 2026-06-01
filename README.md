@@ -1,19 +1,19 @@
 # Hi, I'm Jaewoo Lee
 
-I'm a Statistics and Mathematics graduate exploring data analysis, machine learning, and deep learning one project at a time.
+I'm a Statistics and Mathematics graduate from the University of Toronto, currently exploring data analysis, machine learning, and deep learning one project at a time.
 
 I like working with real-world datasets, asking practical questions, and building projects that help me understand both the technical side and the decision-making side of data.
 
 ## 🔍 What I'm working on
 
 - Building data analysis projects with Python, SQL, and Tableau
-- Learning machine learning with scikit-learn and PyTorch
-- Exploring model evaluation beyond accuracy
+- Learning machine learning and deep learning through hands-on projects and self-study
+- Exploring model evaluation beyond accuracy, including calibration and uncertainty
 - Improving my project workflow with Git, GitHub, and reproducible notebooks
 
 ## 🛠️ Tools I'm using
 
-Python, SQL, PyTorch, scikit-learn, pandas, NumPy, matplotlib, PostgreSQL, Tableau, Flask, Streamlit, Docker, AWS
+Python, SQL, PyTorch, scikit-learn, pandas, NumPy, matplotlib, seaborn, PostgreSQL, Tableau, Flask, Streamlit, Docker, AWS
 
 ## 🌐 Portfolio
 

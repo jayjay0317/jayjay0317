@@ -1,40 +1,25 @@
 # Hi, I'm Jaewoo Lee
 
-I am a Statistics and Mathematics graduate exploring data analysis, machine learning, and deep learning through applied projects.
+I'm a Statistics and Mathematics graduate exploring data analysis, machine learning, and deep learning one project at a time.
 
-My recent work focuses on building reproducible projects with Python, SQL, scikit-learn, and PyTorch. I am especially interested in applying machine learning to real-world problems and learning how to evaluate models beyond standard accuracy metrics.
+I like working with real-world datasets, asking practical questions, and building projects that help me understand both the technical side and the decision-making side of data.
 
-## Featured Projects
+## 🔍 What I'm working on
 
-### Diabetes Risk Prediction with PyTorch
+- Building data analysis projects with Python, SQL, and Tableau
+- Learning machine learning with scikit-learn and PyTorch
+- Exploring model evaluation beyond accuracy
+- Improving my project workflow with Git, GitHub, and reproducible notebooks
 
-A PyTorch-based machine learning project for binary diabetes risk prediction under class imbalance.
-
-This project compares a Random Forest baseline with a class-weighted PyTorch MLP and evaluates the model using threshold tuning, calibration curves, Brier Score, Platt scaling, and Monte Carlo Dropout.
-
-- Repository: [Diabetes Risk Reliability Analysis with PyTorch](https://github.com/jayjay0317/diabetes-risk-reliability-pytorch)
-
-### Diabetes ML Pipeline and Deployment
-
-An end-to-end diabetes risk prediction project using scikit-learn, Flask, Streamlit, Docker, and AWS.
-
-This project focuses on the full ML workflow from preprocessing and model training to API development, containerization, and deployment.
-
-- Repository: [Diabetes ML Pipeline Analysis](https://github.com/jayjay0317/Diabetes-ML-Pipeline-Analysis)
-
-### Olist E-commerce Analysis
-
-A SQL and Tableau project analyzing Brazilian e-commerce data to uncover business insights related to sales, product performance, delivery operations, and customer behavior.
-
-- Repository: [Olist E-commerce Analysis](https://github.com/jayjay0317/Olist-E-Commerce-analysis)
-
-## Tools
+## 🛠️ Tools I'm using
 
 Python, SQL, PyTorch, scikit-learn, pandas, NumPy, matplotlib, PostgreSQL, Tableau, Flask, Streamlit, Docker, AWS
 
-## Portfolio
+## 🌐 Portfolio
 
-- [Project Portfolio](https://jayjay0317.github.io)
+You can find my project portfolio here:
+
+[Project Portfolio](https://jayjay0317.github.io)
 
 <!--
 **jayjay0317/jayjay0317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

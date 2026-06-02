@@ -33,11 +33,6 @@ I like working with real-world datasets, asking practical questions, and buildin
 <img src="https://img.shields.io/badge/Docker-%232496ED?style=flat-square&logo=Docker&logoColor=white">
 <img src="https://img.shields.io/badge/AWS-%23EF2D5E?style=flat-square&logo=AWS&logoColor=white">
 
-<img src="https://img.shields.io/badge/%20Python-%233776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
-
-
 ## 🌐 Portfolio
 
 You can find my project portfolio here:

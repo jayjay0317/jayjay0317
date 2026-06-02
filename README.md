@@ -27,7 +27,9 @@ I like working with real-world datasets, asking practical questions, and buildin
 **Databases & BI:** 
 <img src="https://img.shields.io/badge/PostgreSQL-%234169E1?style=flat-square&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/Tableau-%2378FF96?style=flat-square&logo=Tableau&logoColor=white">  
-**Deployment:** Flask, Streamlit, Docker, AWS
+**Deployment:**
+<img src="https://img.shields.io/badge/Flask-%233BABC3?style=flat-square&logo=Flask&logoColor=white">
+Streamlit, Docker, AWS
 
 <img src="https://img.shields.io/badge/%20Python-%233776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">

@@ -40,8 +40,6 @@ I like working with real-world datasets, asking practical questions, and buildin
 <img src="https://img.shields.io/badge/VS_Code-%23145FE4?style=flat-square&logo=VS_Code&logoColor=white">
 <img src="https://img.shields.io/badge/Jupyter-%23F37626?style=flat-square&logo=Jupyter&logoColor=white">
 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
 ## 🌐 Portfolio
 
 You can find my project portfolio here:

@@ -14,7 +14,7 @@ I like working with real-world datasets, asking practical questions, and buildin
 ## 🛠️ Tools I'm using
 
 **Languages:** <img src="https://img.shields.io/badge/%20Python-%233776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-%23CF4A0C?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-%23CF4A0C?style=for-the-badge&logoColor=white">  
 **Machine Learning:** PyTorch, scikit-learn  
 **Data Analysis:** pandas, NumPy, matplotlib, seaborn  
 **Databases & BI:** PostgreSQL, Tableau  

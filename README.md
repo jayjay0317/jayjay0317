@@ -27,11 +27,16 @@ I like working with real-world datasets, asking practical questions, and buildin
 **Databases & BI:** 
 <img src="https://img.shields.io/badge/PostgreSQL-%234169E1?style=flat-square&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/Tableau-%2378FF96?style=flat-square&logo=Tableau&logoColor=white">  
-**Deployment:**
+**Web & Deployment:**
 <img src="https://img.shields.io/badge/Flask-%233BABC3?style=flat-square&logo=Flask&logoColor=white">
 <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B?style=flat-square&logo=Streamlit&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-%232496ED?style=flat-square&logo=Docker&logoColor=white">
-<img src="https://img.shields.io/badge/AWS-%23EF2D5E?style=flat-square&logo=AWS&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-%23EF2D5E?style=flat-square&logo=AWS&logoColor=white">  
+**Version Control:** 
+<img src="https://img.shields.io/badge/Git-%23F03C2E?style=flat-square&logo=Git&logoColor=white">
+
+Git, GitHub  
+**Development Environment:** VS Code, Jupyter Notebook
 
 ## 🌐 Portfolio
 

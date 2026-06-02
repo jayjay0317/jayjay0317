@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50" align="left" style="margin-right: 10px;">
+# Hey! Nice to see you. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" height="30" style="vertical-align: middle;">
 
 Hello! I'm a Statistics and Mathematics graduate from the University of Toronto, currently exploring data analysis, machine learning, and deep learning one project at a time.
 

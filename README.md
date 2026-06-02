@@ -1,6 +1,6 @@
-# Hi, I'm Jaewoo Lee
+# Jaewoo Lee
 
-I'm a Statistics and Mathematics graduate from the University of Toronto, currently exploring data analysis, machine learning, and deep learning one project at a time.
+Hello! I'm a Statistics and Mathematics graduate from the University of Toronto, currently exploring data analysis, machine learning, and deep learning one project at a time.
 
 I like working with real-world datasets, asking practical questions, and building projects that help me understand both the technical side and the decision-making side of data.
 

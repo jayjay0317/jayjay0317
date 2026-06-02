@@ -21,7 +21,9 @@ I like working with real-world datasets, asking practical questions, and buildin
 <img src="https://img.shields.io/badge/scikit--learn-%23F7931E?style=flat-square&logo=scikit-learn&logoColor=white">  
 **Data Analysis:** 
 <img src="https://img.shields.io/badge/pandas-%23150458?style=flat-square&logo=pandas&logoColor=white">
-NumPy, matplotlib, seaborn  
+<img src="https://img.shields.io/badge/NumPy-%23013243?style=flat-square&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/matplotlib-%23897BFF?style=flat-square&logo=matplotlib&logoColor=white">
+<img src="https://img.shields.io/badge/seaborn-%23149EF2?style=flat-square&logo=seaborn&logoColor=white">  
 **Databases & BI:** PostgreSQL, Tableau  
 **Deployment:** Flask, Streamlit, Docker, AWS
 

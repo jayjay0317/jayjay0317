@@ -1,6 +1,6 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" height="30" style="vertical-align: middle;"> Hey! Nice to see you.
 
-Welcome to my page! 
+Welcome to my page!  
 I'm a Statistics and Mathematics graduate from the University of Toronto, currently exploring data analysis, machine learning, and deep learning one project at a time.
 
 I like working with real-world datasets, asking practical questions, and building projects that help me understand both the technical side and the decision-making side of data.

@@ -36,7 +36,7 @@ I like working with real-world datasets, asking practical questions, and buildin
 <img src="https://img.shields.io/badge/Git-%23F03C2E?style=flat-square&logo=Git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=GitHub&logoColor=white">  
 **Development Environment:** 
-<img src="https://img.shields.io/badge/VS_Code-%23#145FE4?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/VS_Code-%23145FE4?style=flat-square&logo=VS_Code&logoColor=white">
 <img src="https://img.shields.io/badge/Jupyter-%23F37626?style=flat-square&logo=Jupyter&logoColor=white">
 
 ## 🌐 Portfolio

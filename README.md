@@ -34,8 +34,7 @@ I like working with real-world datasets, asking practical questions, and buildin
 <img src="https://img.shields.io/badge/AWS-%23EF2D5E?style=flat-square&logo=AWS&logoColor=white">  
 **Version Control:** 
 <img src="https://img.shields.io/badge/Git-%23F03C2E?style=flat-square&logo=Git&logoColor=white">
-
-Git, GitHub  
+<img src="https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=GitHub&logoColor=white">
 **Development Environment:** VS Code, Jupyter Notebook
 
 ## 🌐 Portfolio

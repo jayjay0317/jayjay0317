@@ -24,7 +24,8 @@ I like working with real-world datasets, asking practical questions, and buildin
 <img src="https://img.shields.io/badge/pandas-%23150458?style=flat-square&logo=pandas&logoColor=white">
 <img src="https://img.shields.io/badge/NumPy-%23013243?style=flat-square&logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/matplotlib-%23897BFF?style=flat-square&logo=matplotlib&logoColor=white">
-<img src="https://img.shields.io/badge/seaborn-%23149EF2?style=flat-square&logo=seaborn&logoColor=white">  
+<img src="https://img.shields.io/badge/seaborn-%23149EF2?style=flat-square&logo=seaborn&logoColor=white">
+<img src="https://img.shields.io/badge/SciPy-#8CAAE6?style=flat-square&logo=scipy&logoColor=white">
 **Databases & BI:** 
 <img src="https://img.shields.io/badge/PostgreSQL-%234169E1?style=flat-square&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/Tableau-%2378FF96?style=flat-square&logo=Tableau&logoColor=white">  
